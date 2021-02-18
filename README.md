@@ -6,6 +6,8 @@ The purpose of this assignment was to analyze three aspects of the bike sharing 
 2. Display the number of bike trips for all riders and gender for each hour of every day of the week. 
 3. Display the number of bike trips for each type of user and gender for every day of the week. 
 
+The tableau analysis can be found here: https://public.tableau.com/profile/pallavi.ojha#!/vizhome/NYC_CitiBike_Challenge_16136713442890/CheckoutTimesforGender
+
 ## Results 
 <img width="900" alt="Checkout times for Users" src="https://user-images.githubusercontent.com/68453460/107461205-8be6fe00-6b27-11eb-8b65-7446cbdb4307.png">
 The results show that the peak number of check outs are around 5am. 
